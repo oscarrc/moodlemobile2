@@ -21,7 +21,7 @@ $turquoise:       #007982; // Accent.
 $turquoise-light: mix($turquoise, white, 20%); // Background.
 $turquoise-dark:  darken($turquoise, 10%);
 
-$green:           #5e8100; // Accent.
+$green:           #17B619; // Accent.
 $green-light:     mix($green, white, 20%);
 $green-dark:      darken($green, 10%);
 
@@ -38,7 +38,7 @@ $yellow-dark:     mix($yellow, black, 40%);
 
 // Change Ionic default colors.
 $dark: $black !default;
-$positive: $blue !default;
+$positive: $green !default;
 $balanced: $green !default;
 $assertive: $red !default;
 $energized: $yellow !default;
@@ -46,13 +46,13 @@ $stable: $gray-lighter !default;
 $royal: $orange !default;
 $calm: $turquoise !default;
 
-$mm-color:          $orange;
+$mm-color:          $green;
 $mm-color-light:    lighten($mm-color, 10%);
 $mm-color-dark:     darken($mm-color, 10%);
 
-$mm-color-init-screen:          #ff5c00;
-$mm-color-init-screen-alt:      #ff7600;
-$mm-init-screen-spinner-color:  $white;
+$mm-color-init-screen:          #fff;
+$mm-color-init-screen-alt:      #fff;
+$mm-init-screen-spinner-color:  $green;
 $mm-init-screen-logo-width:     60%;
 $mm-init-screen-logo-max-width: 300px;
 
