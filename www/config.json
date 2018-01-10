@@ -1,7 +1,7 @@
 {
     "app_id" : "es.newtonacademia.plataformavirtual",
-    "appname": "Academia Newton",
-    "desktopappname": "Academia Newton",
+    "appname": "Newton Formación",
+    "desktopappname": "Newton Formación",
     "versioncode" : "2021",
     "versionname" : "3.4.0",
     "cache_expiration_time" : 300000,

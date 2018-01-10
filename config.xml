@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.0">
-  <name>Academia Newton</name>
+  <name>Newton Formación</name>
   <description>&#xD;
         Plataforma eLearning de Academia de Enseñanza Newton Villalba&#xD;
     </description>
@@ -65,8 +65,8 @@
   <plugin name="ionic-plugin-keyboard" spec="2.2.1"/>
   <plugin name="cordova-plugin-zip" spec="3.1.0"/>
   <plugin name="cordova-plugin-local-notifications-mm"/>
-  <plugin name="net.tunts.webintent" spec="https://github.com/Tunts/WebIntent.git"/>
-  <plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git"/>
+  <plugin name="net.tunts.webintent" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
+  <plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
   <platform name="android">
     <icon src="resources\android\icon\drawable-ldpi-icon.png" density="ldpi"/>
     <icon src="resources\android\icon\drawable-mdpi-icon.png" density="mdpi"/>
